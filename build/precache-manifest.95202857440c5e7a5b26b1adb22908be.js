@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6b8bddb286dc33dea313",
+    "revision": "4e23429f1fc53ac3e69b",
     "url": "/react-hooks-spike/build/static/css/main.31b5b2bc.chunk.css"
   },
   {
-    "revision": "6b8bddb286dc33dea313",
-    "url": "/react-hooks-spike/build/static/js/main.6b8bddb2.chunk.js"
+    "revision": "4e23429f1fc53ac3e69b",
+    "url": "/react-hooks-spike/build/static/js/main.4e23429f.chunk.js"
   },
   {
     "revision": "179d2e3357a888324c84",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-hooks-spike/build/static/js/runtime~main.c0f67651.js"
   },
   {
-    "revision": "b8b35960726781f6bdf9c56751c58695",
+    "revision": "e7f290a90f27a3bfd4787d25651ef7cc",
     "url": "/react-hooks-spike/build/index.html"
   }
 ];
