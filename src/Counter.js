@@ -6,7 +6,7 @@ export function Counter(properties) {
   const [location, setLocation] = useState({ x: 0, y: 0 })
 
   useEffect(() => {
-    const handlePointerMove = (e) => setLocation({ x: e.pageX, y: e.pageY })
+    const handlePointerMove = (e) => setLocation({ x: e.pageX.toFixed(2), y: e.pageY.toFixed(2) })
     document.addEventListener('pointermove', handlePointerMove)
     return () => {
       document.removeEventListener('pointermove', handlePointerMove)
